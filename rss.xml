@@ -2,16 +2,22 @@
     <channel>
         <title><![CDATA[steve-herman]]></title>
         <description><![CDATA[steve-herman]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/steve-herman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 00:23:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Apr 2016 00:25:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/steve-herman/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The Philosophy of Steve Herman</p>]]></description>
-            <link>undefined9f616761-e488-40a1-bac3-6b93dcb628a7/index.html</link>
+            <description><![CDATA[<p>The Philosophy of Steve Herman: I vow to take
+advantage of Life everyday by: Waking
+up with a smile on my face; Giving
+selflessly to others; Making
+it a priority to give 110% in everything that I choose to endeavor; Keeping
+a positive mindset even in difficult situations; and Knowing
+that kindness towards others will make for the best in all!</p>]]></description>
+            <link>https://thegrid.ai/steve-herman/9f616761-e488-40a1-bac3-6b93dcb628a7/index.html</link>
             <guid isPermaLink="false">9f616761-e488-40a1-bac3-6b93dcb628a7</guid>
-            <pubDate>Sat, 09 Apr 2016 00:23:01 GMT</pubDate>
+            <pubDate>Sat, 09 Apr 2016 00:25:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
